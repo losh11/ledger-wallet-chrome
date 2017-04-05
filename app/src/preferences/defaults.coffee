@@ -157,6 +157,9 @@ ledger.preferences.litecoin =
       bchain:
         name: 'Bchain.info'
         address: 'https://bchain.info/LTC/tx/%s'
+      insightlite:
+        name: 'Insight Lite'
+        address: 'https://insight.litecore.io/tx/%s'
     discoveryGap: 20
 
 ledger.preferences.dogecoin =
