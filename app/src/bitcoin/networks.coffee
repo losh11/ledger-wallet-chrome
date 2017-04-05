@@ -117,7 +117,7 @@ ledger.bitcoin.Networks =
     bip44_coin_type: '2'
     version:
       regular: 48
-      P2SH: 5
+      P2SH: 50
       XPUB: 0x19DA462
     bitcoinjs: bitcoin.networks.litecoin
     dust: 10000
